@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\bin\Debug\sayi-tahmin-etme.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\bin\Debug\sayi-tahmin-etme.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\bin\Debug\sayi-tahmin-etme.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\obj\Debug\sayi-tahmin-etme.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\obj\Debug\sayi_tahmin_etme.Form1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\obj\Debug\sayi_tahmin_etme.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\obj\Debug\sayi-tahmin-etme.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\obj\Debug\sayi-tahmin-etme.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\sayi-tahmin-etme\sayi-tahmin-etme\obj\Debug\sayi-tahmin-etme.pdb
